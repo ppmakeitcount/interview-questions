@@ -59,6 +59,8 @@ Questions
   ```
   Please find code at [this link](https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/)
 - Find longest prefix from array / Find the longest prefix from the list of strings - trie based solution
+    - [solution 1](https://www.geeksforgeeks.org/longest-common-prefix-using-word-by-word-matching/)
+    - [solution 2](https://www.geeksforgeeks.org/longest-common-prefix-using-binary-search/)
 - Find nearest palindrome of a given number
 - Given two arrays with different sums find numbers that can be swapped from arrays so as to make the sum equal
 - Implement two stacks in a single array
