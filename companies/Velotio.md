@@ -77,5 +77,8 @@ Questions
 - Write a pagination class for a search engine.
 - What are mutable and immutable data types in Python
 - Design an algorithm to implement the solution for the Sudoku problem.
+- How will you validate user inputs in soduku game if user enter multiple values in diffrent boxes.
+    - Note: I miss understood que and answered algorithm to solve. Correct ans is you will have solved suduku at backend just validate the user inputs.
 - Implement your ordered dictionary without using dict() in python
+- Consider python has no data type dict. Implement your own in python.
 
